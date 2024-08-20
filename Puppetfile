@@ -2,7 +2,7 @@ forge 'https://forge.puppet.com'
 
 mod 'puppetlabs-ntp', '10.1.0'
 
-mode 'apache',
+mod 'apache',
   :git => 'https://github.com/noother0ne/puppet-apache'
 
 # Modules from the Puppet Forge
