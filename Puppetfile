@@ -4,7 +4,7 @@ mod 'puppetlabs-ntp', '10.1.0'
 
 mod 'apache',
   :git    => 'https://github.com/noother0ne/puppet-apache'
-#  :branch => 'master'
+  :branch => 'master'
 #  :ref => 'master'
 
 # Modules from the Puppet Forge
