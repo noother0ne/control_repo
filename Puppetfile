@@ -5,7 +5,7 @@ mod 'puppetlabs-ntp', '10.1.0'
 mod 'apache',
   :git    => 'https://github.com/noother0ne/puppet-apache'
 #  :branch => 'staging'
-#  :ref => 'staging'
+  :ref => 'staging'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
